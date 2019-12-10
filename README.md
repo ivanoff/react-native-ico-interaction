@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-interaction';
 render() {
     return (
         <Fragment>
-          <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="mail" />
+          <Icon name="list" height="40" width="40" />
+          <Icon name="user" color="red" />
         </Fragment>
     );
 }
