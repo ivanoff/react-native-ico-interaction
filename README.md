@@ -1,6 +1,6 @@
-# react-native-ico-interaction
+# Interaction Icons for React Native
 
-### Interaction Icons for React Native
+### react-native-ico-interaction
 
 560 Icons
 
@@ -13,15 +13,19 @@ import Icon from 'react-native-ico-interaction';
 // Inside some view component
 render() {
     return (
-        <Fragment>
+        <>
           <Icon name="mail" />
           <Icon name="list" height="40" width="40" />
           <Icon name="user" color="red" />
-        </Fragment>
+        </>
     );
 }
 
 ```
+
+## List of icons
+
+- [List of Interaction Icons](static/interaction.md)
 
 ## Installation
 
@@ -63,13 +67,9 @@ width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
-## List of icons
-
-- [List of Interaction Icons](static/interaction.md)
-
 ## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
+[Smashicons](https://www.flaticon.com/authors/smashicons)
 
 ## Created by
 
