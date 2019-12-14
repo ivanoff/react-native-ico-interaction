@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Interaction Icons](static/interaction.md)
+- [List of Interaction Icons](http://ico.simpleness.org/pack/interaction)
 
 ## Installation
 
