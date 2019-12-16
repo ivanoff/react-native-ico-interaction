@@ -1,8 +1,8 @@
-# interaction Icons for React Native
+# Interaction Icons for React Native
 
 ### react-native-ico-interaction
 
-369 Icons
+560 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of interaction Icons](http://ico.simpleness.org/pack/interaction)
+- [List of Interaction Icons](http://ico.simpleness.org/pack/interaction)
 
 ## Installation
 
