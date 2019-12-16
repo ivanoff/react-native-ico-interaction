@@ -1,4 +1,4 @@
-module.exports = `
+module.exports = {
 	'archive-1': `<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;" xml:space="preserve">
 <g>
@@ -15365,4 +15365,4 @@ module.exports = `
 		C36.825,26.66,37,26.342,37,26z M26,31.179V20.821L34.137,26L26,31.179z"/>
 </g>
 </svg>
-``
+`}
