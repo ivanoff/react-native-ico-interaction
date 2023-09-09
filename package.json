@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-interaction",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "Interaction Icons for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
