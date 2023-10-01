@@ -1,5 +1,6 @@
 declare module 'react-native-ico-interaction' {
     import { ReactNode } from 'react';
+    import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'archive-1' |
       'archive-10' |
@@ -593,7 +594,7 @@ declare module 'react-native-ico-interaction' {
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
 
     export { iconNames };
     export default Icon;
